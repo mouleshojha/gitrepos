@@ -1,1 +1,2 @@
-This is the second file
+Adding new line to the text
+Adding second line to the text
