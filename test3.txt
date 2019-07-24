@@ -1,3 +1,4 @@
 Adding new line to the test
 Adding second line to the test
 Third line in the test file
+stave file
