@@ -1,2 +1,3 @@
 Adding new line to the text
 Adding second line to the text
+Third line in the test file
